@@ -1,0 +1,23 @@
+{
+  "name": "vue-preset",
+  "version": "1.0.0",
+  "description": "基于vue-cli4的preset搭建前端项目模板",
+  "main": "./generator/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windraxb/vue-preset.git"
+  },
+  "keywords": [
+    "vue-cli4",
+    "preset"
+  ],
+  "author": "windraxb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/windraxb/vue-preset/issues"
+  },
+  "homepage": "https://github.com/windraxb/vue-preset#readme"
+}
